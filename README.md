@@ -24,19 +24,49 @@ simple solutions to complex problems.
 * VueJS
 * Vuex
 * Angular
-* Jest
+* Loopback
 * Ionic
 * Responsive Design
 * TDD
 * Agile
 * Express
-* Loopback
+* MongoDB
 
 ## Experience
 
 ### Neosoft Technologies - Mumbai, India
-
 #### Software Engineer (June 2019 - Present)
+
+## Projects
+## Pepperstate
+#### PepperState is a crowdfunding platform where investors can invest in the projects created by borrowers.
+[Website](https://pepperstate-stage.maj.digital/en)
+* I was assigned to this project in mid of the development phase.
+* I am handling both frontend and backend of the application.
+* Technologies used for frontend are: HTML(pug), CSS, JavaScript, VueJS, NuxtJS, SASS preprocessor, <a target="_blank" href="https://element.eleme.io/#/en-US">Element UI</a> for UI components.
+* Technologies used for backend are: NodeJS, Express, GraphQL, MongoDB.
+* Git and Bitbucket are used as version control tool and repository hosting service respectively.
+* Jira is used as software management tool.
+
+## Collecticity
+#### Collecticity is a crowdfunding platform where investors can invest/donate in the projects created by borrowers.
+[Website](https://collecticity.fr)
+* I was assigned to this project after it was launched.
+* I am taking care of bug fixes and minor changes as required.
+* Recently i have moved e-contract signature API to a separate micro-service which is built with NodeJS and NestJS.
+* Technologies used for frontend are: HTML, CSS, JavaScript, AngularJS v1.5.5, Grunt, Gulp.
+* Technologies used for backend are: NodeJS, Loopback, MongoDB.
+* Git and Bitbucket are used as version control tool and repository hosting service respectively.
+* Jira is used as software management tool.
+
+## Skillocial
+#### Skillocial is a Social Media platform for Hip Hop Community.
+[Website](https://skillocial.web.app)
+* I have built this application from scratch.
+* UI was built by major focusing on mobile version as its hybrid application which is build for Web(PWA), Android and IOS platforms.
+* Technologies used: Angular, Ionic, HTML, SCSS, Typescript, Firebase, MongoDB realm.
+* Git and Bitbucket are used as version control tool and repository hosting service respectively.
+* Jira is used as software management tool.
 
 ## Education
 
